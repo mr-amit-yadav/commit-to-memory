@@ -12,7 +12,7 @@ By committing frequently, writing meaningful commit messages, and documenting th
 ## 👨‍💻 Author
 
 **Amit Yadav**
-Data Science & AI Student
+Data Science & AI 
 
 ## ⭐ Show Your Support
 
